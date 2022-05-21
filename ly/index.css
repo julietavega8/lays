@@ -1,0 +1,71 @@
+.landing {
+    display: flex;
+}
+
+body {
+    font-family: verdana;
+}
+
+.estamos {
+    display: flex;
+    margin-top: 80px;
+}
+
+.estamos h3{
+    margin-left: 100px;
+}
+.estamos img{
+    margin-left: 100px;
+}
+
+.Argentina img {
+   height: 100px;
+
+}
+
+.Brasil img {
+    height: 100px;
+}
+
+.Chile img {
+    height: 100px;
+}
+
+.Mexico img {
+    height: 100px;
+} 
+.sabores {
+    display: flex;
+}
+
+
+
+.sabores img {
+    height: 200px;
+    width: auto;
+    vertical-align: middle;
+}
+
+.navbar{
+    display: flow-root;
+}
+
+.primera img {
+    width: 10%;
+    height: 10%;
+}
+
+.landing {
+    display: flex;
+}
+
+.navbar{
+    text-align: right;
+    text-decoration: black;
+}
+
+.landing img {
+    width: 50px;
+    height: 50px;
+}
+
